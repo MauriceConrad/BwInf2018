@@ -1,0 +1,18 @@
+{
+  "name": "twist",
+  "version": "0.1.0",
+  "description": "Modulare Implementierung der 2. Aufgabe des BwInf 2018 (Runde 1)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twist",
+    "bwinf",
+    "2018",
+    "runde",
+    "1"
+  ],
+  "author": "Maurice Conrad",
+  "license": "ISC"
+}

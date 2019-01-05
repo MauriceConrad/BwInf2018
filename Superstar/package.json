@@ -1,0 +1,20 @@
+{
+	"name": "superstar",
+	"version": "0.1.0",
+	"description": "Modulare Implementierung der 1. Aufgabe des BwInf 2018 (Runde 1)",
+	"keywords": [
+		"superstar",
+		"bwinf",
+		"2018",
+		"bundeswettbewerb",
+		"informatik",
+		"runde",
+		"1"
+	],
+	"license": "ISC",
+	"author": "Maurice Conrad",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}

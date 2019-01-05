@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Alex",
+    "following": []
+  },
+  {
+    "name": "Lisa",
+    "following": [0]
+  },
+  {
+    "name": "David",
+    "following": [0, 1, 3]
+  },
+  {
+    "name": "Johannes",
+    "following": [0, 1, 2]
+  }
+
+]
